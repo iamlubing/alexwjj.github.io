@@ -30,7 +30,7 @@
 
 ## blog 4.0
 请切换分支：[20210501_blog_4.0](https://github.com/alexwjj/alexwjj.github.io/tree/20210501_blog_4.0)。当前博客5.0，2021.5.1上线。
-## 资源分享(持续更新)
+## 资源分享(持续更新
 ### 1、博客
 - [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)  持续更新，没事就去看看，阮大的风格就是`很容易看懂`
 - [字节飞书的学习计划 - 超清楚（必看）](https://bitable.feishu.cn/appNuDKPaGtimrdkB0JnXmpoktZ) 字节前端知识梳理，很清楚，`建议收藏`
